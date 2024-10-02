@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-df = pd.read_csv("main_data.csv")
+df = pd.read_csv("dashboard/main_data.csv")
 
 def get_season(month):
     if month in [11, 12, 1, 2, 3]:
