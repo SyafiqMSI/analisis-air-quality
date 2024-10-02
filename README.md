@@ -8,8 +8,7 @@ Anda bisa mengakses link (https://airquality-msi.streamlit.app/) atau jika ingin
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+cd analisis-air-quality
 pipenv install
 pipenv shell
 pip install -r requirements.txt
@@ -21,7 +20,7 @@ conda activate main-ds
 pip install -r requirements.txt
 ```
 
-## Run steamlit app -Anaconda Prompt
+## Run steamlit app - Shell/Terminal
 ```
 cd .\dashboard\
 python -m streamlit run dashboard.py
