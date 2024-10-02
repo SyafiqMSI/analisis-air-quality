@@ -29,7 +29,7 @@ def categorize_pollution(row):
 
 df['Pollution_Level'] = df.apply(categorize_pollution, axis=1)
 
-st.title("Stations Air Quality Analysis Dashboard")
+st.title("Air Quality Stations Analysis Dashboard")
 
 with st.sidebar:
     st.header("Main Filters")
