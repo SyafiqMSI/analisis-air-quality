@@ -1,5 +1,7 @@
 # Air Quality Stations Dashboard 
-----
+
+![image](https://github.com/SyafiqMSI/analisis-air-quality/blob/main/data/image.png)
+
 [Air Quality Station Analysis ](https://airquality-msi.streamlit.app/) adalah sebuah proyek yang bertujuan untuk memonitor dan menganalisis kualitas udara di berbagai lokasi melalui data yang dikumpulkan dari stasiun-stasiun. Proyek ini menyajikan informasi mengenai suhu, kecepatan angin, serta parameter penting lainnya yang berkaitan dengan kualitas udara untuk membantu pengguna dalam memahami kondisi lingkungan di sekitar mereka.
 
 Anda bisa mengakses link (https://airquality-msi.streamlit.app/) atau jika ingin melnjalankan di lokal komputer silahkan ikuti langkah-langkah di bawah
